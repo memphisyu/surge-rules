@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+upstream/
+build/
+*.conf
+!Surge/rules.conf
