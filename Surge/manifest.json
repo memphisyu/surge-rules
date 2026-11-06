@@ -1,0 +1,831 @@
+{
+  "upstream": "Hawaiine/mihomo-rules",
+  "commit": "5b42cb79d6bbc7a17cec9eb7488fa95a508ee703",
+  "rulesets": {
+    "ABEMA": {
+      "source_rules": 22,
+      "regex_rules": 0,
+      "sha256": "c4f150bafa99fc330db1994136e0d04e7889861a4540ca4e9aae0fd1f4f76c3b"
+    },
+    "AWS": {
+      "source_rules": 51,
+      "regex_rules": 1,
+      "sha256": "56919f2dffce42d3b3c80fdb5f8bdf95105f11d0f5cd7bc65b7eaa0a0d517655"
+    },
+    "Alibaba": {
+      "source_rules": 392,
+      "regex_rules": 0,
+      "sha256": "77b5e06fdec06137ea4f9ded431fe1853ae1bd45b7d037cbc94fb14903bd4131"
+    },
+    "Alipay": {
+      "source_rules": 20,
+      "regex_rules": 0,
+      "sha256": "080bfddf3029392c11cb0b3958ef0f03e1873b3b7ff4ffb26ff95b619a993dce"
+    },
+    "Amazon": {
+      "source_rules": 165,
+      "regex_rules": 0,
+      "sha256": "602ca796078ad097e769048d448c74cd4b44156348cb0b814a0db5bb635b2535"
+    },
+    "Anthropic": {
+      "source_rules": 9,
+      "regex_rules": 0,
+      "sha256": "b2b8e9a3a14980d2bcf8ef4e2ec231894855089533f6f3054af50b8d6636f64f"
+    },
+    "AppStore": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "20062ff2d80616e5fbdb360b54c8a9f184e8ec5be47601a4dd79345e8892ec4f"
+    },
+    "Apple": {
+      "source_rules": 1471,
+      "regex_rules": 0,
+      "sha256": "fa0a3e70616fbdfcc8748b632b951868009ea7abb46e232f5216f51d3b6405c5"
+    },
+    "AppleFitnessPlus": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "29a2ba5dca87263e75eb35844ce4073085d1a575ec1de4290d06245594745879"
+    },
+    "AppleMusic": {
+      "source_rules": 19,
+      "regex_rules": 0,
+      "sha256": "6a332fe380ba5304c380e6fc5ec9ecbc2f81f8a94d9b2812373cee491d1269bf"
+    },
+    "AppleNewsPlus": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "2ebd35c43a58cc28ce4d8534f9ff545ce95869a0c44e5f3412aef30e136de486"
+    },
+    "ApplePodcasts": {
+      "source_rules": 3,
+      "regex_rules": 0,
+      "sha256": "282558a2021694e3183cb09869def035bf09a7d452ccd9716151dc811e45fcad"
+    },
+    "AppleTV": {
+      "source_rules": 8,
+      "regex_rules": 0,
+      "sha256": "ffa90eb89ae2cecc89609906b9699e97ecc13f36ed737d95a9b7bf5394f93f21"
+    },
+    "Applications": {
+      "source_rules": 98,
+      "regex_rules": 0,
+      "sha256": "2a1395c1b28200a117d84110afb174485e78775e091e83b553373169207089d0"
+    },
+    "Azure": {
+      "source_rules": 61,
+      "regex_rules": 0,
+      "sha256": "1f5ac08ac0f74c84bc5a9174d409751bf16deafe13a120e0cf6ab5a6e1cf7929"
+    },
+    "Bahamut": {
+      "source_rules": 7,
+      "regex_rules": 0,
+      "sha256": "e8ab82098cc725666b3196b7f00732a836971077d01c1e3a8397d8fde966f272"
+    },
+    "Bangumi": {
+      "source_rules": 3,
+      "regex_rules": 0,
+      "sha256": "6c0dcb74ea4caa70f425c44fbe1b401fe809c988291147f3ba3dc64029e1a9b5"
+    },
+    "Bank": {
+      "source_rules": 113,
+      "regex_rules": 0,
+      "sha256": "1bd440cf67c834a39994675ff662de51e2e076a1b3eac746a60feedd615f94a0"
+    },
+    "Bing": {
+      "source_rules": 32,
+      "regex_rules": 0,
+      "sha256": "c50290b420fea252010feb232ff548dca37e468e87eadb2ec28185df43b56581"
+    },
+    "Bluesky": {
+      "source_rules": 3,
+      "regex_rules": 0,
+      "sha256": "88f76f0821993154a665c11cfeef25c4cd22a899d690d069adfc75b5c3248163"
+    },
+    "CATCHPLAYPlus": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "fc3939fb8ad4f6190a2ede1af60197f7be3383a99aa304fd2cb65ad3906726a3"
+    },
+    "CNCIDR": {
+      "source_rules": 9609,
+      "regex_rules": 0,
+      "sha256": "878a244461238091ba58365cbb623a5be29e002105bc3420bc712b6153102f7b"
+    },
+    "Cloudflare": {
+      "source_rules": 93,
+      "regex_rules": 0,
+      "sha256": "1bd7010f5fc9af93f4d046bcaa142448e86397b881d70fe124721249ec0bac3c"
+    },
+    "Copilot": {
+      "source_rules": 49,
+      "regex_rules": 0,
+      "sha256": "1696e402bc5548aa9f8d8ff6e03d9819ecd9ed3d55b562299d8b0d74fde6893e"
+    },
+    "Crunchyroll": {
+      "source_rules": 3,
+      "regex_rules": 0,
+      "sha256": "cfa8eb7277c1cc44972a7cb0723bf057ba083bf265e0f0007acc907ac15428b1"
+    },
+    "Cursor": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "5c6d8418ed48e513a8b5697bea5948ee954fca9f5f683d5ee9234b1258111ad2"
+    },
+    "DAZN": {
+      "source_rules": 21,
+      "regex_rules": 0,
+      "sha256": "4a0d3e2b94ce20df2899f4d2dd10e1f30bf2e2020714c6f4b02279913b47c5ef"
+    },
+    "DJI": {
+      "source_rules": 10,
+      "regex_rules": 0,
+      "sha256": "608826161063ea430527e225b765a83d82c766ad1dd9db3779321fc213810373"
+    },
+    "DMMTV": {
+      "source_rules": 6,
+      "regex_rules": 0,
+      "sha256": "11c8dd579c3a057e48eab2f6cc87212a6863cb62f9f1cd529fc187794e43a162"
+    },
+    "DeepSeek": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "8cb505121e51b125ba96a1810880f2a1e9a08fb16e10a532b425160b1592fc75"
+    },
+    "Deezer": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "215d6a2d772aec82f32a0e7140339384caadef351ac052914aee17f3e8521063"
+    },
+    "DingTalk": {
+      "source_rules": 14,
+      "regex_rules": 0,
+      "sha256": "013b239438fe9e2f6d0592acf91a5aeca762ae271457d2d36ba0755126ba5b7d"
+    },
+    "Direct": {
+      "source_rules": 110761,
+      "regex_rules": 0,
+      "sha256": "b7b211d4aa083d2b79db4e4257cb259f7c92c488e302ceadaa21c453281aaee1"
+    },
+    "DirectDNS": {
+      "source_rules": 25,
+      "regex_rules": 0,
+      "sha256": "cae82db023110c5c7cc986765200e889ba663c8f8829cd8a2659d443ec893161"
+    },
+    "Discord": {
+      "source_rules": 29,
+      "regex_rules": 0,
+      "sha256": "706943aeceae3cd4b5054de90f4323014c1fcb85af64308d8e492d764f912893"
+    },
+    "Disney": {
+      "source_rules": 188,
+      "regex_rules": 1,
+      "sha256": "b96c07675408f1e7359da60596c8e9be656e63451f53539063bf8f8c71b63b78"
+    },
+    "DisneyPlus": {
+      "source_rules": 5,
+      "regex_rules": 0,
+      "sha256": "953771896f6f82455ffa0b22d1d6dd3943d624683c4e6629ea5d63cc1477806a"
+    },
+    "Docker": {
+      "source_rules": 10,
+      "regex_rules": 0,
+      "sha256": "55c99ef7c70d5ca790dc4c3d09d4ea71d4bd86eb0bec780b5072c090d9e405ec"
+    },
+    "Doubao": {
+      "source_rules": 32,
+      "regex_rules": 0,
+      "sha256": "8c8d4632996420284d630aa372bb851fb8d3d65fb0deaad33df179dc3891c9be"
+    },
+    "Douyin": {
+      "source_rules": 79,
+      "regex_rules": 0,
+      "sha256": "6c6f6ceeecfe2c5e81687f0340ae482fa9d7f776c64e79df1a1eb05eff2b6f1e"
+    },
+    "F1TV": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "596a4390621a247842dc311f5afc150a07cd649cb5ee7aeb66a25f5524144e2c"
+    },
+    "Facebook": {
+      "source_rules": 485,
+      "regex_rules": 0,
+      "sha256": "f82ad992f51d63d419db26fc4b0c5d749845d4d71568a683b4b691b805c2cedb"
+    },
+    "FujiTV": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "e0bb603969ccfbec3cc568921f1959bb50c08107d28a485591c94f0f13ad2b9c"
+    },
+    "GameJapan": {
+      "source_rules": 5,
+      "regex_rules": 0,
+      "sha256": "ef9ba0743ea8fdb03c1d4e43b59c30224fc3877972ce2a8b3942233d8e99299f"
+    },
+    "GeneralAI": {
+      "source_rules": 23,
+      "regex_rules": 0,
+      "sha256": "5f0f4378670df60e5999baaecb821ed9d361a772979d84d8302c9737ae345a50"
+    },
+    "GitHub": {
+      "source_rules": 66,
+      "regex_rules": 0,
+      "sha256": "46234bf0e2a53618d013acdaec4c316053f9f735b87bec723d24317d5aa318ad"
+    },
+    "Gmail": {
+      "source_rules": 3,
+      "regex_rules": 0,
+      "sha256": "6ac24cf286f3f6cec9d0ae82f19bc01ebf241c90cebeb3e7eaf2d9ee3e7279f9"
+    },
+    "Google": {
+      "source_rules": 712,
+      "regex_rules": 0,
+      "sha256": "f276f8e88a21af049a43044e762b697b2cf2f87cd9a043a767528440fe32e594"
+    },
+    "GoogleAI": {
+      "source_rules": 46,
+      "regex_rules": 0,
+      "sha256": "589ef80a4a323035b5870496d5f222190b85ff260d7aae89262d588a7baa9c5b"
+    },
+    "GoogleDrive": {
+      "source_rules": 6,
+      "regex_rules": 0,
+      "sha256": "3c46d631ebc9bcf8668388aa7964a6e02b81eb6769bc4e471d8b29030eac5aa8"
+    },
+    "GoogleMaps": {
+      "source_rules": 6,
+      "regex_rules": 0,
+      "sha256": "73b4c4d9badc18f9c03c2c019ccf03cedbc9fe72f4f082dd84c7e385c5e3cf8c"
+    },
+    "GoogleNews": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "2fe8660f34d1da5475b6872d8bdc02795007425c09d05ffc06ee224b94dcb2d6"
+    },
+    "GooglePhotos": {
+      "source_rules": 5,
+      "regex_rules": 0,
+      "sha256": "1f6be4c1cc561d0269cb6b96957266fc97b711f0f8889cba5d79775e5fc40aa4"
+    },
+    "GooglePlay": {
+      "source_rules": 8,
+      "regex_rules": 0,
+      "sha256": "e75427acbfe82460697e33bde393f9c141a2efcb181aa2a96c2883761fbc5f3e"
+    },
+    "GoogleVoice": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "28808080bd5f364598710c15d61c2ec962efab50cf19fe2de20fbc0decf56d9a"
+    },
+    "Grok": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "57f5e15edcfdbd49e140315e353adf0ff30d9ae893a53ea09cc6fcf1a1958e08"
+    },
+    "HBO": {
+      "source_rules": 83,
+      "regex_rules": 0,
+      "sha256": "acef59a6c6c0391444e2c9a74c8ff03947d7d64c07ecc01dfc7f9dafd2bc2051"
+    },
+    "HBOMax": {
+      "source_rules": 7,
+      "regex_rules": 0,
+      "sha256": "65db5d9529648f33c0bd28182a63d7c67d5fca6005a2eb3b64ee0d3ee8a447fd"
+    },
+    "HOYTV": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "97da042ea9269af3aa59b7cff59a70a081f3e6c30ed9ac48601767704d83fe25"
+    },
+    "HamiVideo": {
+      "source_rules": 20,
+      "regex_rules": 0,
+      "sha256": "1aa8441130146de9ad89ce94713ed237ecb467acefe296b28599dffeb26b4b49"
+    },
+    "Hulu": {
+      "source_rules": 59,
+      "regex_rules": 0,
+      "sha256": "4c18e2f09aa3e9e3c31a523c483afbcec64d952d8407ad0b74ca51c5684445b3"
+    },
+    "Instagram": {
+      "source_rules": 74,
+      "regex_rules": 0,
+      "sha256": "106c7510bef20089958ff5a81906c9cb95185bce49be8f8ea7d6e67caf7a0054"
+    },
+    "JD": {
+      "source_rules": 247,
+      "regex_rules": 0,
+      "sha256": "91f734a1b6e4d55e3a349cde138382f02e1533d405ca7c1b85ba06995125c9d9"
+    },
+    "JioHotstar": {
+      "source_rules": 6,
+      "regex_rules": 1,
+      "sha256": "1a06fefad4d4d4bcb3bfdb7a0bb7aed37e9d485c81f2a51430f10ee450188b73"
+    },
+    "KKTV": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "86a73081fbf4424b0dbc638352195e826d6cfdfe1b116583c525eca387af63a2"
+    },
+    "KakaoTalk": {
+      "source_rules": 65,
+      "regex_rules": 0,
+      "sha256": "009ce319b8493b7d5c0da5b70db63fcfe119e136061e5f5fc306e97b69115724"
+    },
+    "KaraokeDAM": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "579eab3fe0740d83f178a9afe8697a0b298fcbdd505c9688f4198d76997816ae"
+    },
+    "LINETV": {
+      "source_rules": 9,
+      "regex_rules": 0,
+      "sha256": "551df2398ccd4f70d01268f6fe43f092f9c26800ae958cf1b674156fcea6690d"
+    },
+    "LanCIDR": {
+      "source_rules": 18,
+      "regex_rules": 0,
+      "sha256": "2911da342c911763f71d2afb20ccca820edb2a278c162826ac7b79597e278853"
+    },
+    "Lark": {
+      "source_rules": 88,
+      "regex_rules": 0,
+      "sha256": "0ca862cd36ad3274b9a667731a409e13b69522fa7ef5bcb314bb894cfc3a8c57"
+    },
+    "Lemino": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "e9fbf52866a72ed7d8ad7fb99e30138e550d16609f4dd04f46ac40bc50e3086b"
+    },
+    "LiTV": {
+      "source_rules": 12,
+      "regex_rules": 0,
+      "sha256": "518d78c9a4e798b0ae9a158ec125392b254c32a2d30f2af7cfda4426687ec7cc"
+    },
+    "MangoTV": {
+      "source_rules": 8,
+      "regex_rules": 0,
+      "sha256": "7c9eb22eb94c31b13d4a1ee0303425c282ced86b5575c0cd0f87bff114da95ea"
+    },
+    "Manus": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "6fde60e667c12eb869e942dd966a0d598395f3286dfac807b542458f732c5839"
+    },
+    "Meituan": {
+      "source_rules": 19,
+      "regex_rules": 0,
+      "sha256": "59118db9c934c4242dfd8aba4f1bc837e217f13b54bc99f8ca035544e5eb5913"
+    },
+    "Messenger": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "09a3b2dc0a2426405bcd2803dfcaf5d32994e5c78967de6f89f16386cc298f45"
+    },
+    "MetaBrainz": {
+      "source_rules": 8,
+      "regex_rules": 0,
+      "sha256": "af98f1939bde31282186fed4285d6035f9d60f48ef6748049d725409a030e12f"
+    },
+    "Microsoft": {
+      "source_rules": 524,
+      "regex_rules": 0,
+      "sha256": "17faa5fe94ef543e6a442e3f96a7487a7a4b6cfd8ec4561b94c668781def63fa"
+    },
+    "MusicJapan": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "6cdde3d44cb82b981b7bf1c0e6633a0b9c4c183e86735aa05e297b74ecf2911f"
+    },
+    "Musixmatch": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "231e40e055993d9d73896dc020bbf7009c3c34af4dc46a69439f386e1e6c3434"
+    },
+    "MyVideo": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "19931b47d728c2ba4bd34d4ea79c6fd7a39a046cd99a726d566173d3716df8f8"
+    },
+    "NBCUniversal": {
+      "source_rules": 16,
+      "regex_rules": 0,
+      "sha256": "a920ab6873dd85971d0393cdc387ce7046286e4387c0a26816263a9e0f8fd0ef"
+    },
+    "NHK": {
+      "source_rules": 3,
+      "regex_rules": 0,
+      "sha256": "8bcb53b9f9e4de2303128c95427973c65d47df83796113582665456917b29b49"
+    },
+    "NetEaseCloudMusic": {
+      "source_rules": 3,
+      "regex_rules": 0,
+      "sha256": "982f363e36890953dc42b48c4c71aac8bb67d7eaec1009c6e5db5eb3c4800c34"
+    },
+    "NetEaseMail": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "84dbff614cbeedce95651d50d12ce8f2b1dbeaade8a8577aa7fc911820461270"
+    },
+    "Netflix": {
+      "source_rules": 39,
+      "regex_rules": 4,
+      "sha256": "70ce5c3faf5b9e3928aa880120c57b99eff2ca9f896863fe8e3b76c0afc95f04"
+    },
+    "Niconico": {
+      "source_rules": 11,
+      "regex_rules": 0,
+      "sha256": "ce568b4e52d161d34f862bc225699478f9a03362462ef4edbdd43662a67f475b"
+    },
+    "Nintendo": {
+      "source_rules": 128,
+      "regex_rules": 0,
+      "sha256": "d098870f5f4daa51b9b9a8f9a53a22bb13e338816a6a3ddfa04f9734b17c31df"
+    },
+    "NousResearch": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "84ce0d303b4515404eb155759bc2365db15264e2d3a9288aed950dff629c4f5e"
+    },
+    "NowE": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "0ceb1fb13d7a3bd4604c4a9fb4b134bad69c13464485b56e253061271abfbef8"
+    },
+    "OasisicSelf": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "43097051863cbaca9f35bfbd7c50759cd924103f0a1bd28f17ac91f9b5721976"
+    },
+    "OneDrive": {
+      "source_rules": 24,
+      "regex_rules": 0,
+      "sha256": "a3ceeb94569b1bb64dde6b353044c6de1aade55aa598f4d03c4d4faa8f96bb32"
+    },
+    "OpenAI": {
+      "source_rules": 42,
+      "regex_rules": 1,
+      "sha256": "283286377dd35bde6d473a64eb7396aa9d3bcb5fefadbf5099bd55ace55d88e0"
+    },
+    "Oracle": {
+      "source_rules": 25,
+      "regex_rules": 0,
+      "sha256": "2e779a9ce2b27e07383b15987690d06f457e0213726480b3a814cc45287f945d"
+    },
+    "Outlook": {
+      "source_rules": 13,
+      "regex_rules": 0,
+      "sha256": "0e402de9fd3b1cb5d370274883c360f1780d07923f1ad96f2a98fa13fba534c0"
+    },
+    "PT": {
+      "source_rules": 10,
+      "regex_rules": 0,
+      "sha256": "3596fad9c56b2453a8ec2dd8b23865e078de7f7d348ae6d3b4b53633b215b94b"
+    },
+    "PTChina": {
+      "source_rules": 55,
+      "regex_rules": 0,
+      "sha256": "f4d3055bd13668c53b9efdb6aaf9a05415ef5e03eea2a994d13479abf6b3447a"
+    },
+    "Pandora": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "bdf5e1aad1f69f016f1fecb18d3d6a7ad5324dc3ad509abfdb6d89abfd4b2270"
+    },
+    "ParamountPlus": {
+      "source_rules": 9,
+      "regex_rules": 0,
+      "sha256": "82484d6b8b0018970381d281dff9f9c717f6ed55dea4025abaae35a36e0a1f72"
+    },
+    "PayPal": {
+      "source_rules": 247,
+      "regex_rules": 0,
+      "sha256": "13e66df96034bbf2dbd4a13bb84444c41ad5a3024c4cd95c97e30747c9252d92"
+    },
+    "Peacock": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "c26448ec1844195808f37c03cbf1886f26630546a7ca64d1929b50998127e0c4"
+    },
+    "Perplexity": {
+      "source_rules": 5,
+      "regex_rules": 0,
+      "sha256": "65c1ee742271f14e4df899f0d7da4fb905710942cf2abe85be667237f4d3c921"
+    },
+    "Pinduoduo": {
+      "source_rules": 7,
+      "regex_rules": 0,
+      "sha256": "42b5a101a328edeb5ba591f5e2e210f4409a4eebb616feaa2a4616199b5f8359"
+    },
+    "Pinterest": {
+      "source_rules": 52,
+      "regex_rules": 0,
+      "sha256": "ddb01e564e22802d0114b87025d6ad46723c9d1101e1ac33d55cf16a89dd1fc9"
+    },
+    "PlayStation": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "7ea8a5184a0c0eb7f2ffbeb6a7e6117f6cb4e34b9f4da03cb7a610ae694a66f6"
+    },
+    "Podcast": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "dc893bbbc99d38f94cc37a348c02bf6f0549c214fac49ce3abcb18fe0c32fac9"
+    },
+    "Poe": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "7cab0fcdb654502f2a7ec5d63fe22b9a9f0c02d13b5b2bdc38e1dadf52f33ee2"
+    },
+    "Porn": {
+      "source_rules": 6660,
+      "regex_rules": 140,
+      "sha256": "55b9f2f7d32a0effa6d7a533a36f936448cff5aa1d3b70980ddbc41d7a341f72"
+    },
+    "PornChina": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "55ea1acd65382568a275181c3dcc1460200ec84df2c281222dbcb1fe829eda1b"
+    },
+    "PrimeVideo": {
+      "source_rules": 29,
+      "regex_rules": 0,
+      "sha256": "c99c3f6236fbd9dabe358ce35668a858300971162175b53fa59c906850f640f7"
+    },
+    "Private": {
+      "source_rules": 130,
+      "regex_rules": 0,
+      "sha256": "d214f8d3ccd88d10e111b93030896ca671e43629352ac6fb992c02f5b750fce6"
+    },
+    "Proxy": {
+      "source_rules": 26505,
+      "regex_rules": 0,
+      "sha256": "bb1e3e9167ce05482f1fd37ebe5fc55244a3ad05b64ac384e3e04c6f64650650"
+    },
+    "ProxyDNS": {
+      "source_rules": 38,
+      "regex_rules": 0,
+      "sha256": "f9953bea358b019d81cb900b3afcb3109026d25c29fffad457dd74067b557638"
+    },
+    "QQ": {
+      "source_rules": 54,
+      "regex_rules": 0,
+      "sha256": "5a16362e1fcf5b5d5e1e9116e7d76a9eab3290c1de75cad80eb8e3a4e24e1fae"
+    },
+    "QQMail": {
+      "source_rules": 3,
+      "regex_rules": 0,
+      "sha256": "efe9469bcfc18b61e70219ffa18757e5710ee43a954c12f45658c9b2294efb58"
+    },
+    "QQMusic": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "638db35a3ad6d7d4ce6e2a316624fa2840b49f27ad58937bfd1f39ebe59db1ef"
+    },
+    "Qobuz": {
+      "source_rules": 33,
+      "regex_rules": 0,
+      "sha256": "f9a32f771ddc092e7d428dad9f3bbd978c397f1a82d8dfd6b34a784cd7079fca"
+    },
+    "RakutenTV": {
+      "source_rules": 31,
+      "regex_rules": 0,
+      "sha256": "e560eae63bcfd186cfb3bdca9fa620b3c740afa7cafba07e3d9326093e447fca"
+    },
+    "ReadJapan": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "a3ecd961a078a14d1dbc9f6441252d6236a700a0a14aeea85775ebed89c4ecc7"
+    },
+    "Reddit": {
+      "source_rules": 15,
+      "regex_rules": 0,
+      "sha256": "70adc1480ae26601b833c5aafab36137bc2e473ac742641f92bbc1281cf2ae01"
+    },
+    "Reject": {
+      "source_rules": 191252,
+      "regex_rules": 0,
+      "sha256": "fb30f338a24b7de7339861f8ff05b77d83974fd992922913b3311f830cdc06f8"
+    },
+    "SiriAI": {
+      "source_rules": 13,
+      "regex_rules": 0,
+      "sha256": "e6846fd8d0e9822c8b55bbcd071f7fe33b55d3e7a632427a36b13885d616c520"
+    },
+    "Snapchat": {
+      "source_rules": 8,
+      "regex_rules": 0,
+      "sha256": "09ce9f4a347cd7c9859e51898c3978205f028fd01408777da1ae1768dacc6e56"
+    },
+    "SoundCloud": {
+      "source_rules": 3,
+      "regex_rules": 0,
+      "sha256": "a6924232d32a8d18d4e8c06336c0a23829fed57ecec62e3449d74c466f442090"
+    },
+    "Spotify": {
+      "source_rules": 33,
+      "regex_rules": 0,
+      "sha256": "dd2d41d1aeca7a75c063d45d397746837af3e21a854e39ef63ae42313dda5f15"
+    },
+    "Steam": {
+      "source_rules": 64,
+      "regex_rules": 0,
+      "sha256": "77a0e07c949ee6223af5bac1d1b684114b1a947853d51b76a79a523b60f39db8"
+    },
+    "Synology": {
+      "source_rules": 26,
+      "regex_rules": 0,
+      "sha256": "7fb73e44dbfdf36b593727a82058e9cc2764dde78cd7bfb151996a972750d519"
+    },
+    "TELASA": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "f2f3ffe008122f93df7cd5cbcd0e1966b4dd196df14d0728aa5a20b24e6610cf"
+    },
+    "TIDAL": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "d0acd90412c681d3e8a325a1630c05471495ebc855c3c74a7a8f97d4364cfd1f"
+    },
+    "TMDB": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "b2fd024101de3e7445beb428683bd96f3cdd74be5eb43ddb9ce05656481ac4fe"
+    },
+    "TVer": {
+      "source_rules": 6,
+      "regex_rules": 0,
+      "sha256": "5cbb9e890f036f95700991b00b1cf759ede7f4cd8d200b953353f5c42d141802"
+    },
+    "Taobao": {
+      "source_rules": 21,
+      "regex_rules": 0,
+      "sha256": "bb274e8835529a8256664801fbdfc02767cef8edc2d3167563d9d9d46a04db79"
+    },
+    "Telegram": {
+      "source_rules": 57,
+      "regex_rules": 0,
+      "sha256": "8a469740507a6c39d940b2438909ed3a21b5dab3e3ec6660b33bc5f0f86a752f"
+    },
+    "TencentVideo": {
+      "source_rules": 51,
+      "regex_rules": 0,
+      "sha256": "1c0051c8a3ab61c8827dabfe0a5a9b6da4bde2239a1ff09ad383baa54bd6a2fc"
+    },
+    "Threads": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "2884fee9f55049d733de02c661f25fcbf2ce8ce75418a87dfbd282c90c7a703a"
+    },
+    "TikTok": {
+      "source_rules": 54,
+      "regex_rules": 0,
+      "sha256": "1802a29cd13b84958d0e3f87f61c90b2d97717a330ad08df629acdcea13d4dfb"
+    },
+    "Tubi": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "7a44fa678a9840abea75bd5bdb38a54f0515aa71393c886f9d98fc17374892fb"
+    },
+    "Twitch": {
+      "source_rules": 49,
+      "regex_rules": 0,
+      "sha256": "25b98e7303e6ae3b5257a0ff631b1104f2ea92d87a5776febbdb998e964217ec"
+    },
+    "UNEXT": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "602567f8e44a0320e0494d2982d3398252c4eec56b5c19864051339b693610cb"
+    },
+    "VideoMarket": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "b52d6712a01872aa9115e68c8610bde75b96eed52dd4d9eac71d9fdd7e7e66e6"
+    },
+    "Viu": {
+      "source_rules": 7,
+      "regex_rules": 1,
+      "sha256": "1dcf06864eafa7847e6652c44a2bc537d6cdac4b05b16bf6f60709108179598a"
+    },
+    "WOWOW": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "f3e7db2ad18d0f492e51249a416c3d94c7d03b8526e988e098fcc5487465e51f"
+    },
+    "WSJ": {
+      "source_rules": 13,
+      "regex_rules": 0,
+      "sha256": "9f7596751f6e2d8185c4e5305d2b33e97854d12cfaa08935749535adbacb3bbe"
+    },
+    "Wallpaper": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "e2166349dbfb0524d8a0348bb549d635ef146a70831beb7f1568372bb85bb1d2"
+    },
+    "WeChat": {
+      "source_rules": 31,
+      "regex_rules": 0,
+      "sha256": "d3ce9f82c588efa3131cabce88030f9cb7a0eb810072dcb7069febf55706d738"
+    },
+    "Weibo": {
+      "source_rules": 4,
+      "regex_rules": 0,
+      "sha256": "85ae3b63e77b6e768e47b354febb5b933ddf19ed7cfd38c5670d63d018287809"
+    },
+    "WhatsApp": {
+      "source_rules": 26,
+      "regex_rules": 0,
+      "sha256": "5d21321fa9c81c8ea019c201771103c78a744c5822f3ca1c2c8e47e24fcdb39e"
+    },
+    "X": {
+      "source_rules": 37,
+      "regex_rules": 0,
+      "sha256": "443555fd8eee06f964b0da320e1776036d518e0ad5b8d91bacacea45cefa4845"
+    },
+    "Xbox": {
+      "source_rules": 51,
+      "regex_rules": 0,
+      "sha256": "d83c5df9466b67d03b7060523f156e20e284b4ac4fa93cc17d841a6717a1482b"
+    },
+    "YouTube": {
+      "source_rules": 183,
+      "regex_rules": 0,
+      "sha256": "21590559ab8f3a27b428ee96941dca3d4ecefa6ef7719bd7628caed75c38ece7"
+    },
+    "YouTubeMusic": {
+      "source_rules": 2,
+      "regex_rules": 0,
+      "sha256": "b4683aeaf639d8d8715d5a1fe525d03a9ab631d222363146a502355584eac1f0"
+    },
+    "Youku": {
+      "source_rules": 40,
+      "regex_rules": 0,
+      "sha256": "83c0d7056294ff380db544d7bf6780d75320462e5b5f3da1de1b8adce1e8b5ea"
+    },
+    "Z-Library": {
+      "source_rules": 53,
+      "regex_rules": 0,
+      "sha256": "a1b098a841432d1c88f1f2748827701569f00f895a45a667c47340bef69b85e8"
+    },
+    "Zhihu": {
+      "source_rules": 9,
+      "regex_rules": 0,
+      "sha256": "ec6e0f7e486f85a52629e4a1145164db59054cdb1a9306d3f332718a0541588e"
+    },
+    "bilibili": {
+      "source_rules": 134,
+      "regex_rules": 0,
+      "sha256": "c14244dd3c27df3ae8645f5be174f50e5a516554818e9982442d5fc240af45a3"
+    },
+    "dAnimeStore": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "1a6b451886c7af8433a99e0d1cca36059b93d0bd8b4c8b53564c72672bb36a5d"
+    },
+    "friDayVideo": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "0c8f7bbaeee132d0234a86830836577f78ec1ddcd93aa06289b70e10ce4b6fa2"
+    },
+    "iCloud": {
+      "source_rules": 60,
+      "regex_rules": 0,
+      "sha256": "f871ca7b21957200391f6fcf630a3e4397dd688e8c406bf63c8cbdce0a57a2af"
+    },
+    "iCloudPrivateRelay": {
+      "source_rules": 6,
+      "regex_rules": 0,
+      "sha256": "5534dc15de1b48762a0b469a77001283a016eb453d65301dcef3b060aa0563c0"
+    },
+    "iQIYI": {
+      "source_rules": 57,
+      "regex_rules": 0,
+      "sha256": "db8aaffb3a7cbe2a2db1fb05c20da763fc33e98dedfe5d178ff0936a459610fe"
+    },
+    "mora": {
+      "source_rules": 1,
+      "regex_rules": 0,
+      "sha256": "e1ec36da4a635cb01b9fd736662038e87bdb025169890c249d664785718dbf40"
+    },
+    "myTVSUPER": {
+      "source_rules": 6,
+      "regex_rules": 0,
+      "sha256": "0d608fcf14a4853d970e6cceb3f7544f1655cdfe3ed3d36fd873155c6783bbb4"
+    },
+    "pixiv": {
+      "source_rules": 11,
+      "regex_rules": 0,
+      "sha256": "d944e88f3c4285c14bb2dd3db72f7fe63a6e137836906592f9313762fe781873"
+    },
+    "radiko": {
+      "source_rules": 3,
+      "regex_rules": 0,
+      "sha256": "359afe7397396e89962bb9c36fecd50371f435a1f3090c5d3658410aa4f61f8f"
+    },
+    "rednote": {
+      "source_rules": 11,
+      "regex_rules": 0,
+      "sha256": "76da056eabee1071d08d133bc5d3f4b7dc642d7941d9402afa5b704a76d9b522"
+    }
+  }
+}
